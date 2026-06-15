@@ -57,6 +57,3 @@ This project is open source and available under the **MIT License**.
 ### 💭 Motto
 
 > *"Stay nonchalant... until someone calls you a good boy."*
-### 💭 Motto
-
-> *"Stay nonchalant... until someone calls you a good boy."*
